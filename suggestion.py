@@ -58,3 +58,4 @@ tab7.markdown(
     """
 )
 
+st.divider()
