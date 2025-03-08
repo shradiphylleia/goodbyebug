@@ -1,4 +1,3 @@
-# learn how to build a isolated environment
 import streamlit as st
 from imgUpload import image_upload
 
